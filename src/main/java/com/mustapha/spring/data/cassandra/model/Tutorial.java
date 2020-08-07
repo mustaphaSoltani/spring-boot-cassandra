@@ -1,4 +1,4 @@
-package com.bezkoder.spring.data.cassandra.model;
+package com.mustapha.spring.data.cassandra.model;
 
 import java.util.UUID;
 

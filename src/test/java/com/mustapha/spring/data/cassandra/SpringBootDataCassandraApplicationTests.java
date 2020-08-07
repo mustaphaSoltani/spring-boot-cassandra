@@ -1,4 +1,4 @@
-package com.bezkoder.spring.data.cassandra;
+package com.mustapha.spring.data.cassandra;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
